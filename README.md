@@ -1,17 +1,18 @@
 # Hello, My name is Ismael Vargas
-I am a biotecnology engeener with a QA formation in process, I have worked in multiple different areas, from labs to Quality assurance and Continuous improvement areas. I have knowledge in API testing and debugging, aswell as cell culture, asceptic procedures and chemical testing by chromatography and organism identification.
+I am a biotecnology engeener with a QA formation in process, I have worked in multiple different areas, from labs to Quality assurance and Continuous improvement areas. I have knowledge in API testing and debugging, aswell as cell culture, asceptic procedures and chemical testing by chromatography and organism identification, I am always eger to learn and develop new skills, I found one of my most valuable qualities, is my ability to adapt to my enviroment quickly.
  
 ##  About me
-*  Biotechnology engeneer with formation in QA and bug identification
-*  I am currently enrolles in a QA bootcamp by TripleTen
-*  I am developing abilities in the automation of tests, API testing and data analysis
-*  I have experience in cell culture and asceptic procedure.
+*  Biotechnology engeneer with formation in system Quality Assurance, focusing on app and site testing, backend debugging and test automation, with multiple developted proyects.
+*  I am currently enrolled in a QA bootcamp by TripleTen
+*  I am developing abilities in test automation for web sites, backend testing using postman and bug identification using JIRA, aswell as app testing and emulation.
+*  I have vast experience working in cell culture laboratories doing cell identification, culture and, extraction, I also have formation in clean room procedure. 
 ##  Social
   [LinkedIn](www.linkedin.com/in/ismael-vargas-rojas)
 ##  Main skills 
-* API testing: JSON, Postman, Jira
-* Tools: JIRA, Github
-* Biotechnology tools:HPLC, Cell culture, Gas Chromatografi,Electroforesis.
+* API testing: Postman, Jira, Android Studio
+* Test Automation: Python, Cygwin 64, Remote consoles connection
+* Tools: JIRA, Github, Python, Android Studio, Consol terminal
+* Biotechnology tools: HPLC, Cell culture, Gas Chromatografi,Electroforesis.
 ## Main proyects
 * Urban Routes (Taxi Reservation Aplication)
   * Description: Real time platform which allows users to make a reservation for a taxi, check the travel history, and manage payment methods
