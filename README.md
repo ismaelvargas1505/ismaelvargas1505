@@ -14,13 +14,19 @@
 * Test Automation: Python, Cygwin 64, Remote consoles connection, Selenium, Pytest, API testing, Github, Git methodologies.
 * Tools: JIRA, Github, Python, Android Studio, Consol terminal
 * Biotechnology tools: HPLC, Cell culture, Gas Chromatografi,Electroforesis.
-## Main proyects
-* Urban Routes (Taxi Reservation Aplication)
-  * Description: Real time platform which allows users to make a reservation for a taxi, check the travel history, and manage payment methods
-  * **Used techniques**:  Manual testing, JIRA, POSTMAN
-  * Contribution: I excecuted 51 trials in order to test both stability and function of the reservation page.
-  * Reported 5 critical errors
+## Main proyects:
+* **Trial testing of application Urban Routes (Taxi Reservation Aplication)**
+  * Description: This is ment to be a real time taxi reservation service, were clients can access the platform creating and account, and set trips to desired destinations across the globe
+  * **Used techniques**:  Manual testing, JIRA, POSTMAN,API testing
+  * **Contribution**: For this proyects a realized a list consisting of 51 tests which were perfomed directly in the platform and inside postman using the aplication´s API, During this proyect, I helped identify critical errors which would help productivity and efficiency in the application rise by a 35%.
+  * During this trials; 5 critical errors were found and correctly reported using jira.
   * [Evidence](https://docs.google.com/spreadsheets/d/1_mzzLuiHzlzRq1vxrW9fRG5cSAsZPPDh/edit?usp=sharing&ouid=100087947782992792071&rtpof=true&sd=true)
+
+* **Python automation test**
+ * Description: this was a personal test to learno the correct way to introduce my self into test automation using python and pytest with the objective of creating valid user´s and place orders.
+ * **Used techniques**: Python, Pytest,test automation,Postman.
+ * **Contribution**: For this particular test, they allowed to me to use a real data base and test the creation and validation of user information under certain paramters, this had no  direct impact on the date base itself, however this was the stepping stone into my introduction into test automation.
+ * [Evidence]   
 
 * Data base for SEMARDET
   * Description: An excel file with macros integrated for an easier usage and better integration of new users and new bussinesses in the archive.
