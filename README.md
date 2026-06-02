@@ -34,7 +34,7 @@
   * Description: The goal of this proyect was to create automated tests in order to tests functions and UI design according to certain specificactions and expecations from a check-list.
   *  **Used Techniques**: Git metholodogies( Git Pull, Git Push, Git commit), Python, Selenium Web driver
   *  **Contributions**: I managed to create a code containing a series of automated tests which displayed results and errors to be fixed from the create a User account phase to the pick up, cancelation and completion of the process, identifying areas of opportunity and erros which may hold back user´s and significantly reduce users, experience, helping to improve application functionality in 30 %  to 40 %.
-  *  [Evidece](https://github.com/ismaelvargas1505/qa-project-Urban-Routes-es)
+  *  [Evidence](https://github.com/ismaelvargas1505/qa-project-Urban-Routes-es)
  
  *  **Urban grocers app automation test**
     * Description: This proyect was another automation test with the objective of creating both user names and delivety orders.
@@ -63,7 +63,7 @@
   * French: Basic (B1)
 
  ## Thank you for taking the time to read my profile .
-
+[Actively maintained](https://img.shields.io/badge/status-actively%20maintained-brightgreen) · [github.com/IsmaelVargas1505](https://github.com/IsmaelVargas1505)
 <!--
 **ismaelvargas1505/ismaelvargas1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
