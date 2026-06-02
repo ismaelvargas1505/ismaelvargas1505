@@ -9,12 +9,14 @@
 *  I have vast experience in remote testing aswell as manual testing, meaning I worked on onsite trobleshooting in circumstances such as laboratory proyects, aswell as web page and mobile app proyects. 
 ##  Social
   [LinkedIn](www.linkedin.com/in/ismael-vargas-rojas)
+  
   [Email](Ismael.vargas1505@gmail.com)
+  
   Phone number: +523334881415
 ##  Main skills 
 * API testing: Postman, Jira, Android Studio, Python, Selenium
 * Test Automation: Python, Cygwin 64, Remote consoles connection, Selenium, Pytest, API testing, Github, Git methodologies.
-* Tools: JIRA, Github, Python, Android Studio, Consol terminal
+* Tools: JIRA, Github, Python, Android Studio, Console terminal
 * Biotechnology tools: HPLC, Cell culture, Gas Chromatografi,Electroforesis.
 ## Main proyects:
 * **Trial testing of application Urban Routes (Taxi Reservation Aplication)**
@@ -61,9 +63,15 @@
   * Spanish: Native speaker
   * English: Advanced (C2)
   * French: Basic (B1)
+---
 
+**Ismael Vargas** — QA Engineer · Test Automation Specialist · Biotechnology Engineer
+
+**Skills & tools:** Python · pytest · requests · REST API Testing · Git · Black-box Testing · Equivalence Partitioning · Laboratory procedures · Documentation
+
+![Actively maintained](https://img.shields.io/badge/status-actively%20maintained-brightgreen) · [github.com/IsmaelVargas1505](https://github.com/IsmaelVargas1505)
  ## Thank you for taking the time to read my profile .
-[Actively maintained](https://img.shields.io/badge/status-actively%20maintained-brightgreen) · [github.com/IsmaelVargas1505](https://github.com/IsmaelVargas1505)
+
 <!--
 **ismaelvargas1505/ismaelvargas1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
