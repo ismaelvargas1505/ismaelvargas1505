@@ -31,10 +31,14 @@
 * **Sprint 9 proyect**
   * Description: The goal of this proyect was to create automated tests in order to tests functions and UI design according to certain specificactions and expecations from a check-list.
   *  **Used Techniques**: Git metholodogies( Git Pull, Git Push, Git commit), Python, Selenium Web driver
-  *  **Contributions**: I managed to create a code containing a series of automated tests which displayed results and errors to be fixed from the create a User account phase to the pick up, cancelation and completion of the process, identifying areas of opportunity and erros which may hold back user´s and signoficantly reduce users, experience, helping to improve application functionality in 30 %  to 40 %.
+  *  **Contributions**: I managed to create a code containing a series of automated tests which displayed results and errors to be fixed from the create a User account phase to the pick up, cancelation and completion of the process, identifying areas of opportunity and erros which may hold back user´s and significantly reduce users, experience, helping to improve application functionality in 30 %  to 40 %.
   *  [Evidece](https://github.com/ismaelvargas1505/qa-project-Urban-Routes-es)
  
- *  
+ *  **Urban grocers app automation test**
+   *Description: This proyect was another automation test with the objective of creating both user names and delivety orders.
+   * **Used techniques**: Python automation, pytest, API testing
+   * **Contributions** : In this proyect I created an automated test using python, testing the needed parameters, stability and functionality of a delivery app, creating a set of tests which would allow us to identify crital errors and parameter validation 50% faster.
+   * [Evidence]
 
 * Data base for SEMARDET
   * Description: An excel file with macros integrated for an easier usage and better integration of new users and new bussinesses in the archive.
