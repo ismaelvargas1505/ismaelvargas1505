@@ -9,6 +9,8 @@
 *  I have vast experience in remote testing aswell as manual testing, meaning I worked on onsite trobleshooting in circumstances such as laboratory proyects, aswell as web page and mobile app proyects. 
 ##  Social
   [LinkedIn](www.linkedin.com/in/ismael-vargas-rojas)
+  [Email](Ismael.vargas1505@gmail.com)
+  Phone number: +523334881415
 ##  Main skills 
 * API testing: Postman, Jira, Android Studio, Python, Selenium
 * Test Automation: Python, Cygwin 64, Remote consoles connection, Selenium, Pytest, API testing, Github, Git methodologies.
@@ -35,20 +37,32 @@
   *  [Evidece](https://github.com/ismaelvargas1505/qa-project-Urban-Routes-es)
  
  *  **Urban grocers app automation test**
-   *Description: This proyect was another automation test with the objective of creating both user names and delivety orders.
-   * **Used techniques**: Python automation, pytest, API testing
-   * **Contributions** : In this proyect I created an automated test using python, testing the needed parameters, stability and functionality of a delivery app, creating a set of tests which would allow us to identify crital errors and parameter validation 50% faster.
-   * [Evidence]
+    * Description: This proyect was another automation test with the objective of creating both user names and delivety orders.
+    * **Used techniques**: Python automation, pytest, API testing
+    * **Contributions** : In this proyect I created an automated test using python, testing the needed parameters, stability and functionality of a delivery app, creating a set of tests which would allow us to identify crital errors and parameter validation 50% faster.
+    * [Evidence](https://github.com/ismaelvargas1505/qa-project-Urban-Grocers-app-es)
+  
+ *  **Urban scooter mobile app testing**
+    * Description: This is the final proyect from the QA bootcamp, were I tested a fully functional mobile app called urban scooter, the goal of this tests were to find and report critical errors in both the UI design specified in the documentation, as well as the functionality and allowed parameters in used data and data stored.
+    * **Used techniques**: Manual testing, API testing, Android studio, Jira, Bug reporting
+    * **Contribution**: For this app test I created different test according to parameters stablished in the specifications provided, some of this evaluations were made to the UI design and some were made to mobile app functionality, aswell as the API return to detect error in conection and code; In this instance I detected several critaical errors which were then reported using Jira, this bug reports would help increase productiivity and user experience in about 30 %.
+    * [Evidence](https://docs.google.com/spreadsheets/d/1VqBFuyQjIQEzzc2Q_H2Vm6wpcg3GJkJR/edit?usp=sharing&ouid=104921225748881348576&rtpof=true&sd=true)
 
-* Data base for SEMARDET
+* **Data base for SEMARDET**
   * Description: An excel file with macros integrated for an easier usage and better integration of new users and new bussinesses in the archive.
   * **Used Techniques**: Excel macros, Troubleshooting and code testing
-  * Contribution: I excecuted excel macros to create a data base in order to store and add new and old information on contributing bussinesses with were on the system to a friendlier to use interface
-##Lenguages
-  * Spanish: Nsative speaker
+  * **Contribution**: I excecuted excel macros to create a data base in order to store and add new and old information on contributing bussinesses with were on the system to a friendlier to use interface
+
+* **Sales manager representative for low volume produce**
+  * **Description**: This is my current role, a sales representative for low volume organic produce, specifically fruits and vegetables, This has been my role for 2 years.
+  * **Transferable skills**: Some of the skills I have picked during this tima are, and extensive communication ability to maintain and troubleshoot different problematics which may occur with costumers or costumer discontent, I have knowledge and experince managing personal and distributing responsabilities and labor. 
+
+## Lenguages
+  * Spanish: Native speaker
   * English: Advanced (C2)
   * French: Basic (B1)
- ## Thank you for taking the time to read my profile.
+
+ ## Thank you for taking the time to read my profile .
 
 <!--
 **ismaelvargas1505/ismaelvargas1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
